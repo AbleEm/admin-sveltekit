@@ -1,3 +1,4 @@
+@import "./custom.pcss";
 @tailwind base;
 @tailwind components;
 @tailwind utilities;
@@ -35,7 +36,7 @@ h1{
   color: #00aef3;
 }
 
-button{
+table button{
   background-color: #00aef3;
   color: white;
   outline: none;
